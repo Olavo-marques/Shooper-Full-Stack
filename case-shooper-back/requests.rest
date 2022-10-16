@@ -1,0 +1,44 @@
+
+GET http://localhost:3003/user/product?nameOrPrice=name&order=desc
+
+###
+POST http://localhost:3003/user/product/request
+Content-Type: application/json
+
+{""
+    "nameUser": "Olavo",
+    "deliveryDate": "2022-10-02",
+    "totalPrice": 500,
+    "productList": [
+        {
+            "id": "49701c0a-b489-49fd-8902-4139cc7dc2d0",
+            "name": "ÁGUA MINERAL BONAFONT SEM GÁS 1",
+            "price": 2.39,
+            "qtyStock": 869
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
