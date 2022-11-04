@@ -10,8 +10,8 @@ Shopper-Full-Stack
 
 ### Descrição
 
-Esse Projeto foi desnvolvido durando o processo seletivo da empresa Shopper, onde o bjetivo e criar um site de produtos onde o usuário pode navegar por todos os produtos na pagina /feed atravez do campo de buscar produto encontar um produto por nome, ainda na mesma página existem filtros onde pode escolher que os seja ordenadem alfabetica ou numero em ordem crescente ou decrescente.
-Um carrinho de será exibido quando tiver no mínimo 1 item nele
+Esse Projeto foi desenvolvido durando o processo seletivo da empresa Shopper, onde o objetivo e criar um site de produtos onde o usuário pode navegar por todos os produtos na página /feed através do campo de buscar produto e encontrar um produto por nome, ainda na mesma página existem filtros onde pode escolher a ordem alfabética ou preço em ordem crescente, ou decrescente.
+Um carrinho será exibido na parte superior direita quando tiver no mínimo 1 item adicionado, caso clique no carrinho será redirecionado para a página /cart aqui tem todos os itens adicionados informando o preço total e caso queira excluir algum item apenas clicar no ícone x do item, para finalizar a compra insira a data de entrega e o nome do cliente
 
 >Autor: Olavo marques do nascimento
 
