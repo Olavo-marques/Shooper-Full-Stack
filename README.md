@@ -60,3 +60,30 @@ Um carrinho será exibido na parte superior direita quando tiver no mínimo 1 it
 - Deploy em AWS
 - Versificação GitHub
 - Visual Estúdio Code
+---
+### Home page 
+ <img src="./images-readme/home.png">
+
+---
+### Products page
+ <img src="./images-readme/feed.png">
+
+---
+### Cart with products
+ <img src="./images-readme/feed-cart.png">
+
+---
+### Cart page
+ <img src="./images-readme/cart.png">
+
+---
+### Cart empty
+ <img src="./images-readme/cart-empty.png">
+
+---
+### Purchase date error
+ <img src="./images-readme/cart-erro-date.png">
+
+---
+### Order placed
+ <img src="./images-readme/sucess.png">
